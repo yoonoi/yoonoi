@@ -1,5 +1,5 @@
-### 안녕하슈👋
-성장중 :book::pen:
+### 안녕하쇼👋
+:book::pen:
 
 <!--
 **yoonoi/yoonoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
